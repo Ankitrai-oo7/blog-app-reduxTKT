@@ -54,7 +54,7 @@ function AddNewBlog() {
       </div>
       <div>
       <label>Enter Blog Description</label>
-      <input type='text'
+      <textarea type='textarea'
       name='description'
       placeholder='Enter blog description'
       id='description'
